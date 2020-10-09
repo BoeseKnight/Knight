@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="cooking">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAAAAAAAAAABAAAAAAIABIACAAAAAAEAg=</HashCode>
+      <FileName>Class.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="dish_meat">
+    <Position X="0.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAgAAAAAAAAAQAAAAAAAAAAAAAAABAAAEAAAAA=</HashCode>
+      <FileName>Class.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="desert_cream">
+    <Position X="4.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AECAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>Class.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="dish_garnish">
+    <Position X="0.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAQAAAAAAAAAAIAAAIBAAAAACAIAAAAAAAAAA=</HashCode>
+      <FileName>Class.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="desert_making">
+    <Position X="4.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAQIAAAAAAAAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>Class.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="serve">
+    <Position X="2.75" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEABAAAAAIAAAAAAAAAAAQAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Class.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
