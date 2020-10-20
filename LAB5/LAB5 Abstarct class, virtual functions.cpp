@@ -8,8 +8,18 @@ int main()
 {
     int i = 0;
     int size;
+    bool fail = true;
     cout << "Enter a size of array.\n";
-    cin >> size;
+    do {
+        cin >> size;
+        if (cin.fail() || cin.rdbuf()->in_avail() > 1) {
+            cout << "Error" << endl;
+        }
+        else
+            fail = false;
+        cin.clear();
+        cin.ignore(cin.rdbuf()->in_avail());
+    } while (fail);
     cooking** mas = new cooking*[size];
     for (i = 0; i < size/3; i++) {
         mas[i] = new desert("Napoleon", i);
