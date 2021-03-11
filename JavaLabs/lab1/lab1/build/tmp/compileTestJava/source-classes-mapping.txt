@@ -1,0 +1,2 @@
+labs/lab1/Lab1ApplicationTests.java
+ labs.lab1.Lab1ApplicationTests
