@@ -1,6 +1,12 @@
 labs/lab1/Lab1Application.java
  labs.lab1.Lab1Application
-labs/lab1/controller/MessageController.java
- labs.lab1.controller.MessageController
+labs/lab1/exception/Exception.java
+ labs.lab1.exception.Exception
 labs/lab1/Parity.java
  labs.lab1.Parity
+labs/lab1/exception/RequestException.java
+ labs.lab1.exception.RequestException
+labs/lab1/exception/ApiExceptionHandler.java
+ labs.lab1.exception.ApiExceptionHandler
+labs/lab1/controller/MessageController.java
+ labs.lab1.controller.MessageController
